@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["mem_map"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/ops/deref/trait.Deref.html\" title=\"trait core::ops::deref::Deref\">Deref</a> for <a class=\"struct\" href=\"mem_map/mem_map/struct.MEM_MAP.html\" title=\"struct mem_map::mem_map::MEM_MAP\">MEM_MAP</a>","synthetic":false,"types":["mem_map::mem_map::MEM_MAP"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

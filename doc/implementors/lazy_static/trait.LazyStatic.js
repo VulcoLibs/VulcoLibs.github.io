@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["mem_map"] = [{"text":"impl <a class=\"trait\" href=\"https://docs.rs/lazy_static/1.4.0/lazy_static/trait.LazyStatic.html\" title=\"trait lazy_static::LazyStatic\">LazyStatic</a> for <a class=\"struct\" href=\"mem_map/mem_map/struct.MEM_MAP.html\" title=\"struct mem_map::mem_map::MEM_MAP\">MEM_MAP</a>","synthetic":false,"types":["mem_map::mem_map::MEM_MAP"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
